@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Capilano Suspension Bridge",
+        "category": "Forest",
+        "city": "North Vancouver",
+        "province": "British Columbia",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Capilano Suspension Bridge Park",
+        "coordinates": {
+            "longitude": -123.1149,
+            "latitude": 49.3429
+        },
+        "description": "The bridge stretches 137 metres (450 feet) and it is 70 metres (230 feet) above the Capilano River.",
+        "imageName": "capilanobridge"
+    },
+    {
+        "name": "The Seawall",
+        "category": "Urban",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Stanley Park",
+        "coordinates": {
+            "longitude": -123.1280,
+            "latitude": 49.2961
+        },
+        "description": "Watch out for coyotes!",
+        "imageName": "seawall"
+    }
+]
+
